@@ -11,3 +11,4 @@
 * Commit and push the file.
 * Send a Pull Request
 * Welcome to JBoss.
+* Join us on [Gitter](https://gitter.im/jboss-outreach/gci) if you have done that already.
