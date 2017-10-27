@@ -1,5 +1,7 @@
 # A Repository for people create issues to send PRs.
 
+Welcome all the GCI participants. Please follow the following instructions to get started to work with JBoss. If you are not familiar with version control plaese read [this](https://github.com/m-murad/git-intro).
+
 ## Instructions
 
 * Fork this repository.
